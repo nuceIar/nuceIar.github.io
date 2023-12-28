@@ -18,3 +18,4 @@
   </tr>
 </table>
 <a href="https://github.com/nuceIar/nuceIar.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+<a href"hola.com"><button class="favorite styled" type="button">Link</button></a>
