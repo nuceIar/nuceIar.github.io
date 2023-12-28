@@ -8,4 +8,10 @@
       <td>Machine Name</td>
       <td>Easy</td>
       <td><a href="https://www.youtube.com/watch?v=o5g-lUuFgpg">Link</a></td>
+  </tr>
+  <tr>
+      <td>Machine Name 2</td>
+      <td>Hard</td>
+      <td><a href="https://www.youtube.com/watch?v=o5g-lUuFgpg">Link</a></td>
+  </tr>
 </table>
