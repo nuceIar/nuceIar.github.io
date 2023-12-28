@@ -1,9 +1,9 @@
 <table class="Machines">
   <tr>
-      <td>Column 1</td>
-      <td>Column 2</td>
+      <th>Column 1</th>
+      <th>Column 2</th>
   </tr> 
   <tr>
       <td>Line 1</td>
-      <td>Line 2</td>
+      <td> </td>
 </table>
