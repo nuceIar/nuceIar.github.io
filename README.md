@@ -1,7 +1,4 @@
-<a href=https://nuceiar.github.io/test/>Test</a>
-
-
-
+<a href="https://nuceiar.github.io/test">Test</a>
 
 <table class="Machines">
   <tr>
