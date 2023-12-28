@@ -17,5 +17,5 @@
       <td><a href="https://www.youtube.com/watch?v=o5g-lUuFgpg">Link</a></td>
   </tr>
 </table>
-<a href="https://github.com/nuceIar/nuceIar.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-<a href="hola.com"><button class="favorite styled" type="button">Link</button></a>
+
+<a href="test"><button class="btn btn-default btn-lg" type="button">Link</button></a>
