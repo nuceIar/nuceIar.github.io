@@ -1,6 +1,9 @@
-### Table __bold__ **bold**
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+<table class="Machines">
+  <tr>
+      <td>Column 1</td>
+      <td>Column 2</td>
+  </tr> 
+  <tr>
+      <td>Line 1</td>
+      <td>Line 2</td>
+</table>
