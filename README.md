@@ -1,9 +1,11 @@
 <table class="Machines">
   <tr>
-      <th>Column 1</th>
-      <th>Column 2</th>
+      <th>Machines</th>
+      <th>Dificulty</th>
+      <th>Link</th>
   </tr> 
   <tr>
-      <td>Line 1</td>
-      <td> </td>
+      <td>Machine Name</td>
+      <td>Easy</td>
+      <td><a href="https://www.youtube.com/watch?v=o5g-lUuFgpg"<span class="icon"></span>Link</a></td>
 </table>
